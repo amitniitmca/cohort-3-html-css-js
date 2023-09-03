@@ -1,0 +1,6 @@
+a[target="_blank"] {
+    background-color: yellow;
+}
+a[target="_parent"] {
+    background-color: cyan;
+}

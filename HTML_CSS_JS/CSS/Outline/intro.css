@@ -1,0 +1,18 @@
+#div1{
+    border-style : dashed;
+    border-width: 5px;
+    border-color:red;
+    outline-style:solid;
+    outline-width: 10px;
+    outline-color: green;
+}
+
+#div3{
+    border-style: outset;
+    border-width: 10px;
+    border-color:blue;
+    outline-style: dotted;
+    outline-width: 10px;
+    outline-color: yellow;
+    outline-offset: 10px;
+}

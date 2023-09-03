@@ -1,0 +1,7 @@
+body{
+    background-image: url("bike2.jpg");
+    background-attachment: fixed;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center top; */
+}

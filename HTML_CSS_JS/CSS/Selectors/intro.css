@@ -1,0 +1,21 @@
+h1 {
+    color:orange;
+}
+
+#head1 {
+    color:red;
+    text-align : center;
+}
+
+#head2 {
+    color:blue;
+    text-align: right;
+}
+
+.greenText{
+    color:green;
+}
+
+*{
+    color:aqua;
+}

@@ -1,0 +1,22 @@
+#div1{
+    border-style : dashed;
+    border-width: 5px;
+    border-color:red;
+    margin-left : 10px;
+    margin-right : 10px;
+    padding-left : 10px;
+    padding-right : 10px;
+    width : 200px;
+    height : 100%;
+    max-height:50%;
+}
+
+#div2{
+    border-style: double;
+    border-width: thick;
+    border-color:green;
+    width:25%;
+    max-width: 75%;
+    height : 25%;
+    max-height: 50%
+}

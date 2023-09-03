@@ -1,0 +1,24 @@
+h1 {
+    color : #000022;
+}
+
+p{
+    color : #9e2a2b;
+}
+
+#para2{
+    color : rgb(4, 226, 145);
+}
+
+#para1{
+    color : hsl(200, 97%, 49%)
+}
+
+#para3{
+    color : hsla(200, 97%, 49%, 75%)
+}
+
+p {
+    color : rgba(4, 226, 145, 50%)
+}
+

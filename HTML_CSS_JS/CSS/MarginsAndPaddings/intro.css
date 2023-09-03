@@ -1,0 +1,15 @@
+#div1{
+    border-style : dashed;
+    border-width: 5px;
+    border-color:red;
+    margin: 30px;
+    padding: 20px;
+}
+
+#div2{
+    border-style: double;
+    border-width: thick;
+    border-color:green;
+    margin : 10px;
+    padding : 70px;
+}

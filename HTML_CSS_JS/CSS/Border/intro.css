@@ -1,0 +1,20 @@
+#div1{
+    border-style : dashed;
+    border-width: 5px;
+    border-color:red;
+}
+
+#div2{
+    border-style: double;
+    border-width: thick;
+    border-color:green;
+    border-top-left-radius: 1in;
+    border-bottom-right-radius: 1in;
+    text-align: center;
+}
+
+#div3{
+    border-style: outset;
+    border-width: 10px;
+    border-color:blue;
+}
